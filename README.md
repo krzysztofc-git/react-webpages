@@ -8,7 +8,7 @@ My ReactJS webpage projects.
 <img src="overlay-images/pizzeria-light.png" width="200" />
 </p>
 
-You can view the project using the link in this repository's About section.
+You can view the project by running it in a HTTP server (for example by using command `python -m http.server`).
 
 > [!TIP]
 > Try inputting serial numbers `A01`, `A02`, `B01`, `B02`, `B03` on "mes-sandbox" ("Scan Serial UI") web app to see different results. The source code can be found in my repository `mes-sandbox/node-red-uibuilder/scanserial-ui-react`.
